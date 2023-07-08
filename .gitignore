@@ -1,0 +1,36 @@
+# Django
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.sqlite3
+*.db
+
+# Django Media
+media/
+
+# Django Static
+staticfiles/
+
+# React
+node_modules/
+build/
+
+# Editor and IDE files
+.vscode/
+.idea/
+
+# Compiled source
+/dist/
+
+# Dependency directories
+/jspm_packages/
+/node_modules/
+
+# Testing
+/coverage/
+
+# Miscellaneous
+.DS_Store
+.env
+myenv/
